@@ -1,3 +1,7 @@
+# Segundo proyecto sencillo de React y TypeScript
+
+URL de la web en producción: https://ivanmaag-calculadora-propinas.netlify.app/
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
